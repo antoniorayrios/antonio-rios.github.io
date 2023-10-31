@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Antonio Rios, biologist and writer"
 title_separator          : "-"
 name                     : &name "Antonio Rios"
-description              : &description "a professional website for Antonio Rios, B.S. Bioengineeirng"
+description              : &description "an interesting place"
 url                      : https://antoniorayrios.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antoniorayrios/antoniorayrios.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Antonio Rios"
-  avatar           : "profile.png"
+  avatar           : "Screenshot 2023-07-07 at 4.25.09 PM.png"
   bio              : "B.S. Bioengineering from Stanford University, Genentech Researcher, Writer"
   location         : "San Francisco, California"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6717-2267"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
