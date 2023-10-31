@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Antonio Rios, biologist and writer"
+title                    : "Antonio Rios"
 title_separator          : "-"
 name                     : &name "Antonio Rios"
 description              : &description "an interesting place"
