@@ -13,7 +13,7 @@ name                     : &name "Antonio Rios"
 description              : &description "a professional website for Antonio Rios, B.S. Bioengineeirng"
 url                      : https://antoniorayrios.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "antoniorayrios/antoniorayrios.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
